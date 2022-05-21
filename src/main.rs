@@ -1,4 +1,4 @@
-use mathemizer::{
+use mathemizer::math::{
     add,
     divide,
     multiply,

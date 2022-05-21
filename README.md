@@ -5,7 +5,7 @@ A crate for calculating basic mathematical expressions.
 # Usage
 
 ```rust
-use mathemizer::{
+use mathemizer::math::{
     add,
     divide,
     multiply,
@@ -19,4 +19,5 @@ fn main() {
     println!("{}", multiply(1, 2));
     println!("{}", divide(1, 2));
 }
+
 ```
